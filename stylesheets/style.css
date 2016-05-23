@@ -1,0 +1,41 @@
+html, body{
+	text-align: center;
+	color: #FFF;
+	background-color: #6D1A36;
+
+}
+
+div{
+	font-size: 1.4em;
+}
+
+
+.list-group-item{
+	font-size: 0.6em;
+	background-color: transparent;
+}
+
+.text{
+	text-align: left;
+	font-size: 0.8em;
+	padding: 10px;
+}
+
+.logo{
+	max-height: 350px;
+	max-width: 100%;
+}
+
+.menu1{
+	max-width: 100%;
+	max-height: 475px;
+}
+
+.menu2{
+	max-width: 100%;
+	max-height: 390px;
+}
+
+.prevod{
+	max-width: 100%;
+}
